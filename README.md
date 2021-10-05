@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欧尚电子 电感式编码器专家
 
 You can use the [editor on GitHub](https://github.com/oksens/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
